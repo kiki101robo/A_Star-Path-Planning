@@ -32,3 +32,5 @@ The script will display a series of matplotlib plots illustrating the steps the 
 
 - The grid and obstacle configurations can be modified in `env.py`.
 - Heuristic function can be switched between "manhattan" and "euclidean" by changing the `heuristic_type` parameter in `A_star.py`.
+## The Output video can be found in this link: https://drive.google.com/file/d/1HpcsLgxLsp5aXDXeIYLrHzsJhcnN4PSt/view?usp=sharing
+- Please skip to 10 seconds mark
